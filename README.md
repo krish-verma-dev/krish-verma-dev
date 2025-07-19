@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Krish Verma 👋
 
-<!--
-**krish-verma-dev/krish-verma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 B.Sc. Data Science Student @ IITM  
+💡 Interested in Python, Web Development, and AI Tools  
+🚀 Working on small practical projects to improve my skills  
+📫 How to reach me: [tumhara email]
 
-Here are some ideas to get you started:
+## 💻 Skills:
+- Python (Beginner Level)
+- HTML / CSS (Web Development)
+- MS Office (Documentation)
+- AI Tools (ChatGPT, Gemini, DALL-E)
+- GitHub (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects:
+- Clone Website of Rolls-Royce (HTML/CSS)
+- Voice Task Software (Python + AI Tools)
