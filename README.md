@@ -3,7 +3,7 @@
 👨‍💻 B.Sc. Data Science Student @ IITM  
 💡 Interested in Python, Web Development, and AI Tools  
 🚀 Working on small practical projects to improve my skills  
-📫 How to reach me: [tumhara email]
+📫 How to reach me: krishv485@gmail.com
 
 ## 💻 Skills:
 - Python (Beginner Level)
